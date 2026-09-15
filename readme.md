@@ -30,9 +30,6 @@ I am interested in technology and learning new skills. I have practical experien
 What I am interested in:
 
 - 💻 Computer & Digital Skills
-- 🌐 Website Development
-- 📱 App Development Concepts
-- 👩‍💻 Coding & Programming
 - 🎨 Creative & Graphic Skills
 - 📈 Trading & Market Learning
 - 💼 Freelancing & Online Work
