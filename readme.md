@@ -14,7 +14,7 @@ I am a Computer Science student interested in technology, coding, website and ap
 
 </td>
 <td width="38%" align="center">
-<img src="assets/images/shahina-profile.jpg" width="260" alt="Shahina Naznin Neha"/>
+<img src="https://raw.githubusercontent.com/nazninneha19/portfolio/refs/heads/main/public/assets/logo/neha-monogram-transparent.png" width="260" alt="Shahina Naznin Neha"/>
 </td>
 </tr>
 </table>
