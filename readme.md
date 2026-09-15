@@ -8,7 +8,7 @@
 
 I am a Computer Science student interested in technology, coding, website and app development, creative skills, and continuous self-improvement. I am currently learning new technical and digital skills while exploring freelancing, online work, and new opportunities.
 
-<a href="https://shahinanazninneeha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://shahinanazninneha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/nazninneha19"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:shahinanaznin80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
